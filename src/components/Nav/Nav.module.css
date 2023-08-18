@@ -1,0 +1,16 @@
+/* Nav.module.css */
+.navContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #b98e8e;
+    color: rgb(250, 143, 143);
+    border-radius: 20px;
+  }
+  
+  .navLinks {
+    display: flex;
+    gap: 20px; /* Espacio entre los enlaces */
+  }
+  
